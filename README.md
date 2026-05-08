@@ -1,16 +1,29 @@
 # mani-AI
-"Hi, I'm Mani! Currently a BS AI student at UMT. I'm learning Python, C++, and exploring the world of Artificial Intelligence."
-📝 Description
-This is a foundational Python project developed as part of my initial programming coursework in the BS Artificial Intelligence program. The goal was to create a functional command-line interface (CLI) tool that handles arithmetic operations while practicing clean code and logic flow.
+# Hi, I'm Mani! 👋
 
-🚀 Features
-Core Operations: Supports addition, subtraction, multiplication, and division.
-Error Handling: Includes basic logic to manage user inputs.
-Codespace Ready: Fully optimized to run in a GitHub Codespaces environment.
-🛠️ Tech Stack
-Language: Python 3
-Environment: GitHub Codespaces / VS Code
-🖥️ How to Use
-Open the repository in your GitHub Codespace.
-In the terminal, run the following command:
-python calculator.py
+I am a **BS Artificial Intelligence** student at UMT. I'm currently focused on mastering Python, C++, and exploring the future of AI.
+
+---
+
+## 🧮 Featured Project: Python Calculator
+*This is a foundational project developed during my initial programming coursework.*
+
+### 📝 Description
+A functional command-line interface (CLI) tool that handles arithmetic operations while practicing clean code and logic flow.
+
+### 🚀 Features
+* **Core Operations:** Supports addition, subtraction, multiplication, and division.
+* **Error Handling:** Includes logic to manage user inputs.
+* **Codespace Ready:** Optimized for GitHub Codespaces.
+
+### 🛠️ Tech Stack
+* **Language:** Python 3
+* **Environment:** GitHub Codespaces / VS Code
+
+### 🖥️ How to Use
+1. Open the repository in your GitHub Codespace.
+2. Run the following command:
+   `python calculator.py`
+
+---
+*Connect with me as I document my journey to 2030!*
